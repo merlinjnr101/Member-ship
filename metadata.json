@@ -1,0 +1,6 @@
+{
+  "name": "Membership Fan Card Verification",
+  "description": "Production-ready Membership Fan Card Verification Platform. Your Membership. Your Identity. Your Verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
